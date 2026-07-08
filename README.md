@@ -35,8 +35,7 @@ Open list.php and modify the configuration variables at the top of the file to f
 
 **2. Base Directory Setup**
 
-	Set the hardcoded system root directory you want this script to index.
-PHP
+Set the hardcoded system root directory you want this script to index.
 
 	$base_dir = realpath('/var/www/html'); // Absolute path to your target directory
 
