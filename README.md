@@ -69,5 +69,7 @@ Smart URL Copier: Determines if a file requires secure streaming (?dl=...) or di
  - PHP Version: PHP **7.4** or higher recommended.
  - Permissions: The web server user (e.g., www-data) must have read ( r ) and execute ( x ) permissions on the target directories to list contents and traverse paths.
  - Optional PHP Extensions:
+	
 	**php-fileinfo** (highly recommended): Enables precise MIME-type detection when streaming files securely via the download query parameter.
+   
 	**php-posix**: Used to resolve and print system usernames instead of numeric UIDs in the "Owner" column.
