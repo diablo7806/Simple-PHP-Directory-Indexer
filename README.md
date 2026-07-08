@@ -1,7 +1,7 @@
 # Minimalist PHP Directory Browser
 
 A lightweight, secure, self-contained single-file PHP directory indexer designed for private local networks or VPN-backed server environments. It replaces standard web server
-indexes with a modern, responsive, and responsive interface featuring advanced path validation, symlink mapping, and persistent configuration.
+indexes with a modern and responsive interface featuring advanced path validation, symlink mapping, and persistent configuration.
 
 ## Key Features
 
